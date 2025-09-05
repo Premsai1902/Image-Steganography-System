@@ -1,5 +1,5 @@
 /*
-name : Prem sai o
+name :Oruganti Prem Sai 
 description : steganography
 */
 //include all the header including user defined header files
