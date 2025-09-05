@@ -1,5 +1,5 @@
 /*
-name : Prem sai
+name :Oruganti Prem sai
 description : steganography
 */
 #ifndef COMMON_H
